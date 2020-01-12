@@ -4,7 +4,7 @@ This repository will show users how to create a repositroy using Git Bash. In ad
 
 ## Getting Started
 
-**Prerequisites**
+**Prerequisites -**
 
 **Software**
 - [Git Download for Windows](https://gitforwindows.org/)
