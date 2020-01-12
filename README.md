@@ -31,3 +31,4 @@ to configure your Email type and alter the following command and press enter:
 ```
  git config -- global user.email "Your Email"
  ```
+<img src="Git Pictures/Username and Email.JPG" Width="650" height="320">
