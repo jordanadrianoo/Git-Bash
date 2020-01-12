@@ -14,4 +14,6 @@ For Windows, A setup wizard should install git bash within your system. During t
 
 <img src = "Git Pictures/Git Installing window.JPG">
 
-once installed, launch "Git Bash". 
+Once installed, launch "Git Bash". 
+
+<img src = "Git Pictures/Git Bash Command Line.JPG">
