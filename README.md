@@ -24,6 +24,6 @@ While using Git Bash with multiple contributors, it is important to set a local 
 
 to configure your username type:
 ```
-hello world
+ git config -- global user.name "Your Full Name"
 ```
 to configure your Email type:
