@@ -10,6 +10,6 @@ This repository will show users how to create a repositroy using Git Bash. In ad
 - [Git Download for Windows](https://gitforwindows.org/)
 - [Git Alternative Downloads for Mac /Linux /Unix](https://git-scm.com/downloads)
 
-For Windows, A setup wizard should install git bash within your system. Durring the installation, all of the options should be kept as defualt. Any additional options will fall outside of the scope of this repository. The installation wizard should look like the image below.
+For Windows, A setup wizard should install git bash within your system. During the installation, all options should be kept as default. Any additional options will fall outside of the scope of this repository. The installation wizard should look like the image below.
 
 <img src = "Git Pictures/Git Installing window.JPG">
