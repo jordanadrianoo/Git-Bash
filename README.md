@@ -12,4 +12,4 @@ This repository will show users how to create a repositroy using Git Bash. In ad
 
 For Windows, A setup wizard should install git bash within your system. The install window should look something like this:
 
-<Src img="Git Pictures/Git Installing window.JPG">
+<src img = "Git Pictures/Git Installing window.JPG">
