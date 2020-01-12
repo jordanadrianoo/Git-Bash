@@ -32,6 +32,6 @@ to configure your Email type and alter the following command and press enter:
  git config -- global user.email "Your Email"
  ```
  
- An example using the Username "Bob Chavis" and his email "BobChavis@gmail" has been provided below.
+ An example using the Username "Bob Chavis" and his email "BobChavis@gmail" has been provided below. Use this refrence to input your Username and Email.
  
 <img src="Git Pictures/Username and Email.JPG" Width="650" height="320">
