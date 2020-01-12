@@ -12,8 +12,8 @@ This repository will show users how to create a repositroy using Git Bash. In ad
 
 For Windows, A setup wizard should install git bash within your system. During the installation, all options should be kept as default. Any additional options will fall outside of the scope of this repository. The installation wizard should look like the image below.
 
-<img src = "Git Pictures/Git Installing window.JPG">
+<img src = "Git Pictures/Git Installing window.JPG" Width="600" hight="500">
 
 Once installed, launch "Git Bash". 
 
-<img src = "Git Pictures/Git Bash Command Line.JPG">
+<img src = "Git Pictures/Git Bash Command Line.JPG" Width="650" hight="500">
