@@ -16,7 +16,7 @@ For Windows, A setup wizard should install git bash within your system. During t
 
 Once installed, launch Git Bash. 
 
-<img src = "Git Pictures/Git Bash Command Line.JPG" Width="650" height="420">
+<img src = "Git Pictures/Git Bash Command Line.JPG" Width="650" height="300">
 
 ## Setting Username and Email
 
