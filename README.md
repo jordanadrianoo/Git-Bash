@@ -45,3 +45,5 @@ git confid -- list
 <img src="Git Pictures/config Settings.JPG" Width="650" height="320">
 
 A list of many variables will be listed. Among the few, the user.name and user.email should display your newly entered data. You can always change Username or Email using the commands listed previously. 
+
+Another way to quickly search specific config data is to type:
