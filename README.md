@@ -52,3 +52,4 @@ A list of many variables will be listed. Among the few, the user.name and user.e
 git config user.email
 ```
 
+<img src="Git Pictures/config shortcuts.JPG">
