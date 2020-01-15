@@ -65,7 +65,7 @@ git config core.symlinks
 Each one of these commands will display their respective stored variable. More commands can be found near the bottom of the repository with the title named "Command List".
 
 ## Command List
-```
+
 |command|Explanation|
 |-------|-----------|
-```
+
