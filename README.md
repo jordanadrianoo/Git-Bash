@@ -69,6 +69,7 @@ Each one of these commands will display their respective stored variable. More c
 |    command    |    Explanation    |
 |---------------|-------------------|
 |git -- version              |    Displays what Git Bash Version you have installed   |
-|git help               |         Shows the entire help index                         |
+|git help                   |         Shows the entire help index                         |
+|git config user.email    |      Shows what user email is set                           |
 
 
