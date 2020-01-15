@@ -66,7 +66,7 @@ Each one of these commands will display their respective stored variable. More c
 
 ## Command List
 
-|    command    |    Explanation    |
+|    command    |    Explanation                                                       |
 |---------------|-------------------|
 |git -- version              |    Displays what Git Bash Version you have installed   |
 |git help                   |         Shows the entire help index                         |
