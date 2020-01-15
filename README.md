@@ -66,5 +66,6 @@ Each one of these commands will display their respective stored variable. More c
 
 ## Command List
 ```
-|___|____|____|
+|command|Explanation|
+ -------|-----------
 ```
