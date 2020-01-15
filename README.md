@@ -35,3 +35,9 @@ While using Git Bash with multiple contributors, it is important to set a local 
  An example using the Username "Bob Chavis" and email "BobChavis@gmail" has been provided below. Use this refrence to input your Username and Email.
  
 <img src="Git Pictures/Username and Email.JPG" Width="650" height="320">
+
+To ensure that a Username and Email has been set type:
+
+```
+git confid -- list
+```
