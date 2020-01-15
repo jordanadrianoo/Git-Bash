@@ -17,7 +17,7 @@ For Windows, A setup wizard should install git bash within your system. During t
 Once installed, launch Git Bash. 
 
 <img src = "Git Pictures/Git Bash Command Line.JPG" Width="650" height="320">
- q
+ 
 ## Setting Username and Email
 
 While using Git Bash with multiple contributors, it is important to set a local Username and Email. This task can be accomplished by using the command line in Git Bash. 
