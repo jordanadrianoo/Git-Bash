@@ -53,3 +53,5 @@ git config user.email
 ```
 
 <img src="Git Pictures/config shortcuts.JPG" Width="650" height="320">
+
+This command will only display the variable you listed. You can also alter "user.email" with any other variable found within the config list to display said variable. below are some examples.
