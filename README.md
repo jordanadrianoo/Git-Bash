@@ -36,7 +36,7 @@ While using Git Bash with multiple contributors, it is important to set a local 
  
 <img src="Git Pictures/Username and Email.JPG" Width="650" height="320">
 
-To ensure that a Username and Email has been set type:
+**To ensure that a Username and Email has been set, type:**
 
 ```
 git confid -- list
