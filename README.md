@@ -41,3 +41,5 @@ To ensure that a Username and Email has been set type:
 ```
 git confid -- list
 ```
+
+<img src="Git Pictures/config Settings.JPG">
