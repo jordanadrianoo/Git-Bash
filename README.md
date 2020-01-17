@@ -75,6 +75,7 @@ Each one of these commands will display their respective stored variable. More c
 |git help                                      |    Shows the entire help index                             |
 |git -- version                                |    Displays what Git Bash Version you have installed       |
 |pwd                                           |    Shows what folder you are currently in                  |
+|cd ~                                          |    Changes directory to set Home destination               |
 |git config user.name                          |    Shows what username is currently set                    |
 |git config user.name                          |    Shows what username is currently set                    |
 
