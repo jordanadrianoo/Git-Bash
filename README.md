@@ -74,6 +74,7 @@ Each one of these commands will display their respective stored variable. More c
 |----------------------------------------------|------------------------------------------------------------|
 |git help                                      |    Shows the entire help index                             |
 |git -- version                                |    Displays what Git Bash Version you have installed       |
+|whoami                                        |    Displays what user you are logged into                  |
 |pwd                                           |    Shows what directory you are currently in               |
 |ls                                            |    Shows all folders within current directory              |
 |cd ~                                          |    Changes directory to set Home destination               |
