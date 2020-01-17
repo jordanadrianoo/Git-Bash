@@ -70,6 +70,6 @@ Each one of these commands will display their respective stored variable. More c
 |----------------------------------------------|------------------------------------------------------------|
 |git -- version                                |    Displays what Git Bash Version you have installed       |
 |git help                                      |         Shows the entire help index                        |
-|git config user.name    |      Shows what username is currently set                          |
+|git config user.name                          |      Shows what username is currently set                          |
 
 
