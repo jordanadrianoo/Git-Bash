@@ -81,6 +81,8 @@ we can see that git successfully initiated the git repository if you now see mas
 
 ## Command List
 
+### Git commands
+
 |                commands  $                   |                   Explanation                              |
 |----------------------------------------------|------------------------------------------------------------|
 |git help                                      |    Shows the entire help index                             |
