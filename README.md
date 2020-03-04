@@ -70,7 +70,8 @@ When creating a repositroy using git, It is important to choose or create a fold
 
 <img src="Git Pictures/First Repository Folder.JPG" Width="650" height="320">
 
-using simple change directory commands, we navigate into the "First Repository" folder. Once 
+using simple change directory commands, we navigate into the "First Repository" folder. Once selected, we initiate a git repository using the following line.
+
 
 ## Command List
 
