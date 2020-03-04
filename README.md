@@ -66,7 +66,7 @@ Each one of these commands will display their respective stored variable. More c
 
 ## Initiating Repositories
 
-<!-- To view HTML list properly, full screen and use soft wrap-->
+When creating a repositroy using git, It is important to choose or create a folder to control.  
 
 ## Command List
 
