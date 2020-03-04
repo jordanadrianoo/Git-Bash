@@ -91,6 +91,7 @@ we can see that git successfully initiated the git repository if you now see mas
 |git config user.name                          |    Shows what username is currently set                    |
 |git config user.name                          |    Shows what username is currently set                    |
 
+### Git Commit Commands
 
 ### Navigation
 
