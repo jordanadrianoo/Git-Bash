@@ -76,6 +76,8 @@ using simple change directory commands, we navigate into the "First Repository" 
 git init
 ```
 
+we can see that git successfully initiated the git repository if you now see master next to the folder name. Congratulations you have successfully created a repository!
+
 
 ## Command List
 
