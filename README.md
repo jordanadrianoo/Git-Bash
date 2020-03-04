@@ -88,7 +88,6 @@ we can see that git successfully initiated the git repository if you now see mas
 |git help                                      |    Shows the entire help index                             |
 |git -- version                                |    Displays what Git Bash Version you have installed       |
 |whoami                                        |    Displays what user you are logged into                  |
-
 |git config user.name                          |    Shows what username is currently set                    |
 |git config user.name                          |    Shows what username is currently set                    |
 
