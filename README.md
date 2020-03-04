@@ -72,6 +72,10 @@ When creating a repositroy using git, It is important to choose or create a fold
 
 using simple change directory commands, we navigate into the "First Repository" folder. Once selected, we initiate a git repository using the following line.
 
+```
+git init
+```
+
 
 ## Command List
 
