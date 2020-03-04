@@ -81,7 +81,7 @@ we can see that git successfully initiated the git repository if you now see mas
 
 ## Command List
 
-### Git commands
+### Git Information Commands
 
 |                commands  $                   |                   Explanation                              |
 |----------------------------------------------|------------------------------------------------------------|
@@ -90,6 +90,7 @@ we can see that git successfully initiated the git repository if you now see mas
 |whoami                                        |    Displays what user you are logged into                  |
 |git config user.name                          |    Shows what username is currently set                    |
 |git config user.name                          |    Shows what username is currently set                    |
+
 
 ### Navigation
 
