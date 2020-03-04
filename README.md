@@ -70,6 +70,11 @@ When creating a repositroy using git, It is important to choose or create a fold
 
 <img src="Git Pictures/First Repository Folder.JPG" Width="650" height="320">
 
+Although we created a new folder, we must navigate to it within the console command. 
+```
+test
+```
+
 ## Command List
 
 |                commands  $                   |                   Explanation                              |
