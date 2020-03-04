@@ -39,7 +39,7 @@ While using Git Bash with multiple contributors, it is important to set a local 
 **To ensure that a Username and Email has been set, type:**
 
 ```
-git confid -- list
+git config -- list
 ```
 
 <img src="Git Pictures/config Settings.JPG" Width="650" height="320">
