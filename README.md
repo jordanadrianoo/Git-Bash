@@ -66,14 +66,11 @@ Each one of these commands will display their respective stored variable. More c
 
 ## Initiating Repositories
 
-When creating a repositroy using git, It is important to choose or create a folder to control. In this example, I created a folder named "First Repository" on the Desktop for easy access.
+When creating a repositroy using git, It is important to choose or create a folder to control. 
 
 <img src="Git Pictures/First Repository Folder.JPG" Width="650" height="320">
 
-Although we created a new folder, we must navigate to it within the console command. 
-```
-test
-```
+using simple change directory commands, we navigate into the "First Repository" folder. Once 
 
 ## Command List
 
