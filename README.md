@@ -81,6 +81,10 @@ we can see that git successfully initiated the git repository if you now see mas
 
 ## Command List
 
+|                commands  $                   |                   Explanation                              |
+|----------------------------------------------|------------------------------------------------------------|
+|git init                                      |    Initiates a git repository in selected folder           |
+
 ### Git Information Commands
 
 |                commands  $                   |                   Explanation                              |
