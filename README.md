@@ -81,9 +81,7 @@ we can see that git successfully initiated the git repository if you now see mas
 
 ## Command List
 
-|                commands  $                   |                   Explanation                              |
-|----------------------------------------------|------------------------------------------------------------|
-|git init                                      |    Initiates a git repository in selected folder           |
+                                     |    Initiates a git repository in selected folder           |
 
 ### Git Information Commands
 
@@ -96,7 +94,9 @@ we can see that git successfully initiated the git repository if you now see mas
 |git config user.name                          |    Shows what username is currently set                    |
 
 ### Git Commit Commands
-
+|                commands  $                   |                   Explanation                              |
+|----------------------------------------------|------------------------------------------------------------|
+|git init 
 ### Navigation
 
 |                commands  $                   |                   Explanation                              |
