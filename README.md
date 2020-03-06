@@ -102,7 +102,7 @@ we can see that git successfully initiated the git repository if you now see mas
 ### Navigation
 
 |                commands  $                   |                   Explanation                              |
-|----------------------------------------------|----------------------------------------------------------|
+|----------------------------------------------|------------------------------------------------------------|
 |pwd                                           |    Shows what directory you are currently in               |
 |ls                                            |    Shows all folders within current directory              |
 |cd ~                                          |    Changes directory to set home directory.                |
