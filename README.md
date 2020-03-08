@@ -107,6 +107,5 @@ we can see that git successfully initiated the git repository if you now see mas
 |ls                                            |    Shows all folders within current directory              |
 |cd ~                                          |    Changes directory to set home directory.                |
 |cd "desired directory"                        |    changes directory to desired directory                  |
-|cd ..                                         |    Changes directory back one                           
-|
+|cd ..                                         |    Changes directory back one                              |
 
