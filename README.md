@@ -89,7 +89,7 @@ Since we started our first repository, we have not added any files inside. For o
 
 Now that we added files into our folder, our repository is offically outdated. To update our repository, we will need to prepare all file that were either added or edited. 
 
-<img src ="Git Pictures/Git first commit.JPG">
+<img src ="Git Pictures/Git first commit.JPG" Width="650" height="320">
 
 
 ## Command List
