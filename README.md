@@ -81,7 +81,9 @@ To verify, we can use our file explor to see turn on and see hidden files have b
 
 ## Committing
 
-Committing is a way 
+Committing is a way to update files into the repository keeping track of all files. When a file is edited, it is not updated immediately in the repository. We must prepare the file first, then commit and update it on the repository. 
+
+Since we started our first repository, we have not added any files inside. For our next step we will add a simple picture and text doccument. Feel free to add anything you wish!
 
 
 
