@@ -70,7 +70,7 @@ Each one of these commands will display their respective stored variable. More c
 
 When creating a repositroy using git, It is important to choose or create a folder to control. 
 
-<img src="Git Pictures/First Repository Folder.JPG" Width="650" height="320">
+<img src="Git Pictures/First Repository Folder.JPG" Width="650" height="420">
 
 using simple change directory commands, we navigate into the "First Repository" folder. Once selected, we initiate a git repository using the following line.
 
