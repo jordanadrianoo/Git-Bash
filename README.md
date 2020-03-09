@@ -74,9 +74,12 @@ When creating a repositroy using git, It is important to choose or create a fold
 
 using simple change directory commands, we navigate into the "First Repository" folder. Once selected, we initiate a git repository using the following line.
 
+**To Initiat a new Repository, type:**
+
 ```
 git init
 ```
+
 To verify, we can use our file explor to see turn on and see hidden files have been added to crete a repository. we can see that git successfully initiated the git repository if you also now see master next to the folder name. Congratulations you have successfully created a repository!
 
 ## Committing
