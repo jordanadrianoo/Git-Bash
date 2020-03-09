@@ -105,7 +105,7 @@ This will add all files found within the folder and prepare to commit them.
 
 **Committing files to update the repository**
 ```
-
+git commit -m "Any message to explain what you are doing or updating."
 ```
 
 
