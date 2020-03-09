@@ -100,7 +100,7 @@ we can see that git successfully initiated the git repository if you now see mas
 |git add .                                     |    Sets a version point to commit onto the master branch   |
 |git commit -m "you message here"              |    Commits files to the new branch and adds a message      |
 |git log                                       |    Shows all of the commits submitted by author and date   | 
-|git log --author=""
+|git log --author="persons name"               |
 
 ### Navigation
 
