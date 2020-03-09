@@ -141,7 +141,10 @@ git add Names\ List.txt
 ```
 
 **note:** we use a backslash because there is a space in "Names List.txt"
-Now when we check the status, "Names List.txt" will be green indicating that it is ready to commit while preventing anything in red from following. 
+You can add any file by just listing it after add. Now when we check the status, "Names List.txt" will be green indicating that it is a modified file ready to commit while preventing anything in red from following. 
+
+Once we commit the file and check status once more, the repository will see that "Names List.txt" is up to date and the same that it will not list it. Only "Passwords.txt" should remain.
+
 
 
 
