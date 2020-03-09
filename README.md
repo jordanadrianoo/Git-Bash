@@ -87,6 +87,8 @@ Since we started our first repository, we have not added any files inside. For o
 
 <img src="Git Pictures/First Text Doccument.JPG">
 
+Now that we added files into our folder, our repository is offically outdated. 
+
 
 
 ## Command List
