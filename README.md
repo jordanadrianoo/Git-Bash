@@ -113,7 +113,7 @@ This will actually update the repository of all files. The Note is extremly impo
 
 <img src="Git Pictures/Git log.JPG" Width="650" height="320">
 
-**Log Information**
+**Log Information:**
 ```
 git log
 ```
@@ -125,7 +125,7 @@ To commit a single file it does not differ much. For This example, we will creat
 
 <img src="Git Pictures/git single commit.JPG">
 
-**Status**
+**Git Status:**
 ```
 git status
 ```
@@ -136,6 +136,7 @@ The git status shows us that the repository has indicated that two files are eit
 
 We are going to add the "Names List" text file to prepare to commit. 
 
+**Adding a Single file to commit:**
 ```
 git add Names\ List.txt
 ```
@@ -147,8 +148,11 @@ Once we commit the file and check status once more, the repository will see that
 
 <img src="Git Pictures/git commit updating text file.JPG" Width="650" height="320">
 
+Now we will add the remaining files with previous techniques.
 
+<img src="Git Pictures/updating passwords.JPG" Width="650" height="320">
 
+Once all files are commited and the repository is updated, we can use git status one last time. The status will indicate that no files are diffrent than the repository, meaning eveything is up to date.
 
 
 ## Command List
