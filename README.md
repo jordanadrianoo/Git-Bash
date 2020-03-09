@@ -74,6 +74,7 @@ When creating a repositroy using git, It is important to choose or create a fold
 <img src="Git Pictures/First Repository Folder.JPG" Width="650" height="420">
 
 using simple change directory commands, we navigate into the "First Repository" folder. Once selected, we initiate a git repository using the following line.
+**note:** we use a backslash because there is a space in "First Repository"
 
 **To Initiat a new Repository, type:**
 
@@ -141,7 +142,6 @@ We are going to add the "Names List" text file to prepare to commit.
 git add Names\ List.txt
 ```
 
-**note:** we use a backslash because there is a space in "Names List.txt"
 You can add any file by just listing it after add. Now when we check the status, "Names List.txt" will be green indicating that it is a modified file ready to commit while preventing anything in red from following. 
 
 Once we commit the file and check status once more, the repository will see that "Names List.txt" is up to date and the same that it will not list it. Only "Passwords.txt" should remain.
