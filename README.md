@@ -80,7 +80,7 @@ using simple change directory commands, we navigate into the "First Repository" 
 git init
 ```
 
-To verify, we can use our file explor to see turn on and see hidden files have been added to crete a repository. we can see that git successfully initiated the git repository if you also now see master next to the folder name. Congratulations you have successfully created a repository!
+To verify, we can use our file explor to see turn on and see hidden files have been added to create a repository. we can see that git successfully initiated the git repository if you also now see master next to the folder name. Congratulations you have successfully created a repository!
 
 ## Committing
 
@@ -93,6 +93,14 @@ Since we started our first repository, we have not added any files inside. For o
 Now that we added files into our folder, our repository is offically outdated. To update our repository, we will need to prepare all file that were either added or edited. 
 
 <img src ="Git Pictures/Git first commit.JPG" Width="650" height="320">
+
+To prepare files we have to first prepare what files we are about to update. In this situation we will update all files. 
+
+**add files to commit:**
+```
+git add .
+```
+
 
 
 ## Command List
