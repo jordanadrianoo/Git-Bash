@@ -22,6 +22,8 @@ Once installed, launch Git Bash.
 
 While using Git Bash with multiple contributors, it is important to set a local Username and Email. This task can be accomplished by using the command line in Git Bash. 
 
+
+
 **To configure your username, type and alter the following command then press enter:**
 ```
  git config -- global user.name "Your Full Name"
