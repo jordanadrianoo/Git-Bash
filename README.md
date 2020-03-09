@@ -135,6 +135,13 @@ The git status shows us that the repository has indicated that two files are eit
 
 We are going to add the "Names List" text file to prepare to commit. 
 
+```
+git add Names\ List.txt
+```
+
+**note:** we use a backslash because there is a space in "Names List.txt"
+Now when we check the status, "Names List.txt" will be green indicating that it is ready to commit while preventing anything in red from following. 
+
 
 
 
