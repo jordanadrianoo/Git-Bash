@@ -96,11 +96,17 @@ Now that we added files into our folder, our repository is offically outdated. T
 
 To prepare files we have to first prepare what files we are about to update. In this situation we will update all files. 
 
-**add files to commit:**
+**Add files to commit:**
 ```
 git add .
 ```
 
+This will add all files found within the folder and prepare to commit them. 
+
+**Committing files to update the repository**
+```
+
+```
 
 
 ## Command List
