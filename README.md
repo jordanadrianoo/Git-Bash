@@ -120,9 +120,21 @@ In the log, We can see all of the times we have committed and by who. In additio
 
 ## Committing a Single File
 
-To commit a single file it does not differ much. For This example, we will create a new password text file and add some new names to our previous name text file. Our repository will then indicate that these two files are either new or edited. 
+To commit a single file it does not differ much. For This example, we will create a new password text file and add some new names to our previous name text file. 
 
 <img src="Git Pictures/git single commit.JPG">
+
+**Status**
+```
+git status
+```
+
+The git status shows us that the repository has indicated that two files are either new or edited and need to be commited. From here, we must prepare the files and commit them to update the repository. However, in this situation we will commit only one file.
+
+<img src ="Git Pictures/stage area.JPG" Width="650" height="320">
+
+We are going to add the "Names List" text file to prepare to commit. 
+
 
 
 
