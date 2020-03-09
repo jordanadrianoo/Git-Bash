@@ -110,7 +110,7 @@ git commit -m "Any message to explain what you are doing or updating."
 
 This will actually update the repository of all files. The Note is extremly important because it will not what changes have been made since the last version. We can see all commits through the log.
 
-<img src="Git Pictures/Git log.JPG">
+<img src="Git Pictures/Git log.JPG" Width="650" height="320">
 
 
 
