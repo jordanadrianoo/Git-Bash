@@ -97,7 +97,9 @@ we can see that git successfully initiated the git repository if you now see mas
 |                commands  $                   |                   Explanation                              |
 |----------------------------------------------|------------------------------------------------------------|
 |git init                                      |    Initiates a git repository in selected folder           |
-|git add .                                     |    Sets a version point to commit onto the master branch   |
+|git add .                                     |    Prepares Files to commit                                |
+|git add any_document                          |    Prepares a specific file to commit.                     |
+|git add names.txt                             |      Note: Replace any_document with desired file          |
 |git commit -m "you message here"              |    Commits files to the new branch and adds a message      |
 |git log                                       |    Shows all of the commits submitted by author and date   | 
 |git log --author="author's name"              |    Shows all the commits submitted by a certain author     | 
