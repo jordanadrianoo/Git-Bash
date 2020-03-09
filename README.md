@@ -85,6 +85,8 @@ Committing is a way to update files into the repository keeping track of all fil
 
 Since we started our first repository, we have not added any files inside. For our next step we will add a simple picture and text doccument. Feel free to add anything you wish!
 
+<img src="Git Pictures/First Text Doccument.JPG">
+
 
 
 ## Command List
