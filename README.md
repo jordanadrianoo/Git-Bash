@@ -112,9 +112,10 @@ This will actually update the repository of all files. The Note is extremly impo
 
 <img src="Git Pictures/Git log.JPG" Width="650" height="320">
 
-
-
-
+**Log Information**
+```
+git log
+```
 
 
 ## Command List
