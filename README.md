@@ -1,6 +1,6 @@
 # Git Bash First Repository
 
-This repository will show users how to create a repository using Git Bash. In addition, This repository will keep track of useful commands used throughout the repository. Keep in mind, Git Bash uses Unix commands. 
+Git Bash is a tool used by developers and teams to establish version control. This repository will show users how to create a repository using Git Bash. In addition, This repository will keep track of useful commands used throughout the repository. Keep in mind, Git Bash uses Unix commands. 
 
 ## Getting Started
 
@@ -81,6 +81,7 @@ To verify, we can use our file explor to see turn on and see hidden files have b
 
 ## Committing
 
+Committing is a way 
 
 
 
