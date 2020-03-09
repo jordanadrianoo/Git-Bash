@@ -116,7 +116,7 @@ This will actually update the repository of all files. The Note is extremly impo
 ```
 git log
 ```
-
+In the log, We can see all of the times we have committed and by who. In addition, it is possible to search the log using authors names.
 
 ## Command List
 
