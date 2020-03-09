@@ -145,6 +145,8 @@ You can add any file by just listing it after add. Now when we check the status,
 
 Once we commit the file and check status once more, the repository will see that "Names List.txt" is up to date and the same that it will not list it. Only "Passwords.txt" should remain.
 
+<img src="Git Pictures/git commit updating text file.JPG" Width="650" height="320">
+
 
 
 
