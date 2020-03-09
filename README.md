@@ -152,7 +152,7 @@ Now we will add the remaining files with previous techniques.
 
 <img src="Git Pictures/updating passwords.JPG" Width="650" height="320">
 
-Once all files are commited and the repository is updated, we can use git status one last time. The status will indicate that no files are diffrent than the repository, meaning eveything is up to date.
+Once all files are commited and the repository is updated, we can use git status one last time. The status will indicate that no files are diffrent than the repository, meaning eveything is up to date. You can check log to see all of the commits as refrence or to go back in case something bad happens. This is called version control and an essiential for developers.
 
 
 ## Command List
