@@ -79,6 +79,10 @@ git init
 ```
 To verify, we can use our file explor to see turn on and see hidden files have been added to crete a repository. we can see that git successfully initiated the git repository if you also now see master next to the folder name. Congratulations you have successfully created a repository!
 
+## Committing
+
+
+
 
 ## Command List
 
