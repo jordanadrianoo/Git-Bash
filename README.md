@@ -122,6 +122,7 @@ In the log, We can see all of the times we have committed and by who. In additio
 
 To commit a single file it does not differ much. For This example, we will create a new password text file and add some new names to our previous name text file. Our repository will then indicate that these two files are either new or edited. 
 
+<img src="Git Pictures/git single commit.JPG">
 
 
 
