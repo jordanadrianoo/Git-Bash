@@ -131,7 +131,7 @@ To commit a single file it does not differ much. For This example, we will creat
 git status
 ```
 
-The git status shows us that the repository has indicated that two files are either new or edited and need to be commited. From here, we must prepare the files and commit them to update the repository. However, in this situation we will commit only one file.
+The git status shows us that the repository has indicated that two files are either new or edited and need to be committed. From here, we must prepare the files and commit them to update the repository. However, in this situation we will commit only one file.
 
 <img src ="Git Pictures/stage area.JPG" Width="650" height="320">
 
