@@ -69,7 +69,7 @@ Each one of these commands will display their respective stored variable. More c
 
 ## Initiating Repositories
 
-When creating a repositroy using git, It is important to choose or create a folder to control. 
+When creating a repository using git, It is important to choose or create a folder to control. 
 
 <img src="Git Pictures/First Repository Folder.JPG" Width="650" height="420">
 
