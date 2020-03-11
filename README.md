@@ -183,7 +183,8 @@ Once all files are committed and the repository is updated, we can use git statu
 |git commit -am "your message here"            |    Directly Adds and Commits all files with one command    | 
 |git diff                                      |    Shows difference between repository and work files      |
 |git diff --staged                             |    Shows difference between stage and work files           |
-|git log                                       |    Shows all of the commits submitted by author and date   | 
+|git log                                       |    Shows all of the commits                                | 
+|git log --oneline                             |    Shows all commits condensed into single lines           |
 |git log --author="author's name"              |    Shows all the commits submitted by a certain author     | 
 |git checkout Example.txt                      |    Sets the named file on the work space to the last version found in the repository|
 
