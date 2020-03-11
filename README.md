@@ -179,7 +179,7 @@ Once all files are committed and the repository is updated, we can use git statu
 |git add Example.tx t                          |    Prepares a specific file to commit.                     |
 |git status                                    |    Shows what files are ready to commit                    |
 |git commit -m "you message here"              |    Commits files to the new branch and adds a message      |
-|git diff                                      |    Shows what is the difference from the repositorys files current files|
+|git diff                                      |    Shows difference between repository and work files      |
 |git log                                       |    Shows all of the commits submitted by author and date   | 
 |git log --author="author's name"              |    Shows all the commits submitted by a certain author     | 
 
