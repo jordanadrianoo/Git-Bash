@@ -181,14 +181,13 @@ Once all files are committed and the repository is updated, we can use git statu
 |git commit -m "you message here"              |    Commits files to the new branch and adds a message      |
 |git diff                                      |    Shows difference between repository and work files      |
 |git diff --staged                             |    Shows difference between stage and work files           |
-|git rm Exmaple.txt                            |    Deletes file from repository and working copy           |
 |git log                                       |    Shows all of the commits submitted by author and date   | 
 |git log --author="author's name"              |    Shows all the commits submitted by a certain author     | 
 
 ### Git Editing Files
 |                commands  $                   |                   Explanation                              |
 |----------------------------------------------|------------------------------------------------------------|
-|git init                                      |    Initiates a git repository in selected folder           |
+|git rm Exmaple.txt                            |    Deletes file from repository and working copy           |
 
 ### Navigation
 
