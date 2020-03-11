@@ -156,8 +156,8 @@ Once all files are committed and the repository is updated, we can use git statu
 
 ## Git Flowchart
 
-<img src="Git Pictures/GitHub_Flow_steps.png">
 
+<img src="Git Pictures/GitHub_Flow_steps.png"> 
 
 ## Command List
 
