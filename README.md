@@ -177,6 +177,7 @@ Once all files are committed and the repository is updated, we can use git statu
 |git init                                      |    Initiates a git repository in selected folder           |
 |git add .                                     |    Stages all files to commit                              |
 |git add Example.txt                           |    Stages a specific file to commit                        |
+|git reset HEAD Example.txt                    |    Unstages a specific file so it does not commit          |
 |git status                                    |    Shows what files are ready to commit                    |
 |git commit -m "your message here"             |    Commits files to the new branch and adds a message      |
 |git commit -am "your message here"            |    Directly Adds and Commits all files with one command    | 
@@ -185,6 +186,7 @@ Once all files are committed and the repository is updated, we can use git statu
 |git log                                       |    Shows all of the commits submitted by author and date   | 
 |git log --author="author's name"              |    Shows all the commits submitted by a certain author     | 
 |git checkout Example.txt                      |    Sets the named file on the work space to the last version found in the repository|
+
 
 
 ### Git Editing Files-
