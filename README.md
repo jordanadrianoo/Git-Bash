@@ -185,6 +185,11 @@ Once all files are committed and the repository is updated, we can use git statu
 |git log                                       |    Shows all of the commits submitted by author and date   | 
 |git log --author="author's name"              |    Shows all the commits submitted by a certain author     | 
 
+### Git Editing Files
+|                commands  $                   |                   Explanation                              |
+|----------------------------------------------|------------------------------------------------------------|
+|git init                                      |    Initiates a git repository in selected folder           |
+
 ### Navigation
 
 |                commands  $                   |                   Explanation                              |
