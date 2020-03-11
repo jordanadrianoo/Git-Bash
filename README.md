@@ -187,7 +187,7 @@ Once all files are committed and the repository is updated, we can use git statu
 ### Git Editing Files
 |                commands  $                   |                   Explanation                              |
 |----------------------------------------------|------------------------------------------------------------|
-|git rm Exmaple.txt                            |    Deletes file from repository and working copy           |
+|git rm Exmaple.txt                            |    Deletes file from the work space                        |
 |git mv Example.txt New_Name.txt               |    Renames file name into a new name                       |
 
 ### Navigation
