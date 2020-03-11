@@ -178,7 +178,8 @@ Once all files are committed and the repository is updated, we can use git statu
 |git add .                                     |    Prepares Files to commit                                |
 |git add Example.txt                           |    Prepares a specific file to commit.                     |
 |git status                                    |    Shows what files are ready to commit                    |
-|git commit -m "you message here"              |    Commits files to the new branch and adds a message      |
+|git commit -m "your message here"             |    Commits files to the new branch and adds a message      |
+|git commit -am "your message here"            |    Directly Adds and Commits all files with one command    | 
 |git diff                                      |    Shows difference between repository and work files      |
 |git diff --staged                             |    Shows difference between stage and work files           |
 |git log                                       |    Shows all of the commits submitted by author and date   | 
