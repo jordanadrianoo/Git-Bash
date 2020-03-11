@@ -161,7 +161,7 @@ Once all files are committed and the repository is updated, we can use git statu
 
 ## Command List
 
-### Git Information Commands
+### Git Information Commands-
 
 |                commands  $                   |                   Explanation                              |
 |----------------------------------------------|------------------------------------------------------------|
@@ -171,7 +171,7 @@ Once all files are committed and the repository is updated, we can use git statu
 |git config user.name                          |    Shows what username is currently set                    |
 |git config user.name                          |    Shows what username is currently set                    |
 
-### Git Commit Commands
+### Git Commit Commands-
 |                commands  $                   |                   Explanation                              |
 |----------------------------------------------|------------------------------------------------------------|
 |git init                                      |    Initiates a git repository in selected folder           |
@@ -184,7 +184,7 @@ Once all files are committed and the repository is updated, we can use git statu
 |git log                                       |    Shows all of the commits submitted by author and date   | 
 |git log --author="author's name"              |    Shows all the commits submitted by a certain author     | 
 
-### Git Editing Files
+### Git Editing Files-
 |                commands  $                   |                   Explanation                              |
 |----------------------------------------------|------------------------------------------------------------|
 |mkdir "Example_Folder"                        |    Creates a new directory or folder                       |
@@ -193,7 +193,7 @@ Once all files are committed and the repository is updated, we can use git statu
 |git mv Example.txt New_Name.txt               |    Renames file name into a new name                       |
 
 
-### Navigation
+### Navigation-
 
 |                commands  $                   |                   Explanation                              |
 |----------------------------------------------|------------------------------------------------------------|
