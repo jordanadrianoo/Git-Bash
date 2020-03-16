@@ -191,7 +191,7 @@ Once all files are committed and the repository is updated, we can use git statu
 
 
 ### Git Editing Files-
-|                commands  $                   |                   Explanation                              |
+|                commands  $                   |                     Explanation                            |
 |----------------------------------------------|------------------------------------------------------------|
 |mkdir "Example_Folder"                        |    Creates a new directory or folder                       |
 |rmdir Example_Folder                          |    Deletes an exsisting directory or folder                |
