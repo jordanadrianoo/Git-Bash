@@ -206,6 +206,6 @@ Once all files are committed and the repository is updated, we can use git statu
 |pwd                                           |    Shows what directory you are currently in               |
 |ls                                            |    Shows all folders within current directory              |
 |cd ~                                          |    Changes directory to set home directory.                |
-|cd "desired directory"                        |    changes directory to desired directory                  |
+|cd "desired directory"                        |    changes directory to desired directory                 |
 |cd ..                                         |    Changes directory back one                              |
 
