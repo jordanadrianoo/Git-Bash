@@ -209,4 +209,3 @@ Once all files are committed and the repository is updated, we can use git statu
 |cd "desired directory"                        |    changes directory to desired directory                  |
 |cd ..                                         |    Changes directory back one                              |
 
-
