@@ -172,7 +172,7 @@ Once all files are committed and the repository is updated, we can use git statu
 |git config user.name                          |    Shows what username is currently set                    |
 
 ### Git Commit Commands-
-|                commands  $                   |                   Explanation                              |
+|                commands  $                   |                    Explanation                             |
 |----------------------------------------------|------------------------------------------------------------|
 |git init                                      |    Initiates a git repository in selected folder           |
 |git add .                                     |    Stages all files to commit                              |
