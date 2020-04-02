@@ -189,7 +189,6 @@ Once all files are committed and the repository is updated, we can use git statu
 |git checkout Example.txt                      |    Sets the named file on the work space to the last version found in the repository|
 
 
-
 ### Git Editing Files-
 |                commands  $                   |                     Explanation                            |
 |----------------------------------------------|------------------------------------------------------------|
