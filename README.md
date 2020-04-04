@@ -159,7 +159,7 @@ Once all files are committed and the repository is updated, we can use git statu
 
 <img src="Git Pictures/GitHub_Flow_steps.png"> 
 
-## Command List
+## Command List 
 
 ### Git Information Commands-
 
