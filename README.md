@@ -24,6 +24,7 @@ While using Git Bash with multiple contributors, it is important to set a local 
 
 
 
+
 **To configure your username, type and alter the following command then press enter:**
 ```
  git config -- global user.name "Your Full Name"
