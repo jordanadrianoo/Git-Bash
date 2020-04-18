@@ -20,6 +20,7 @@ Once installed, launch Git Bash.
  
 ## Setting Username and Email
 
+
 While using Git Bash with multiple contributors, it is important to set a local Username and Email. This task can be accomplished by using the command line in Git Bash. 
 
 
