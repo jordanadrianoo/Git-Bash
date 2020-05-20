@@ -206,5 +206,5 @@ Once all files are committed and the repository is updated, we can use git statu
 |ls                                            |    Shows all folders within current directory              |
 |cd ~                                          |    Changes directory to set home directory.                |
 |cd "desired directory"                        |    changes directory to desired directory                  |
-|cd ..                                         |    Changes directory back one                              |
+|cd ..                                          |    Changes directory back one                              |
 
